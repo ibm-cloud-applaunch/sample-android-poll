@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">sample-android-poll</string>
+    <string name="applaunch_dashboard_desc">IBM® App Launch for IBM Cloud enables App Owners &amp; App Developers to launch features to mobile apps at speed and measure their impact by controlling the targeted audience. The app owner can work with app developers to
+\n\n• Toggle Features
+\n• Customize app properties &amp; behavior
+\n• Test multiple variants of the feature
+\n• Define Key Performance Indicators (KPI)
+\n• Make real time roll out/roll back decisions based on the KPI </string>
+</resources>
